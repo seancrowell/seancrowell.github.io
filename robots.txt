@@ -1,1 +1,1 @@
-Sitemap: https://www.seancrowell.com/sitemap.xml
+Sitemap: https://seancrowell.github.io/sitemap.xml
