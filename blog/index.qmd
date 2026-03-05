@@ -1,0 +1,12 @@
+---
+title: "Blog / News"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  page-size: 10
+  feed: true
+---
+
+Short updates on new papers, releases, talks, and field activities.

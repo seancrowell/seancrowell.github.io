@@ -1,0 +1,11 @@
+---
+title: "Welcome to the lab blog"
+date: 2026-03-05
+categories: [lab, updates]
+---
+
+This is the first post. Use posts for:
+- paper highlights
+- new datasets or software releases
+- conference notes
+- field campaign updates

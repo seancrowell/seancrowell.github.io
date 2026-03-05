@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Earth Observing Lab"
+  site-url: "https://www.yourdomain.com"
+  description: "Research, people, and updates from the Earth Observing Lab."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research/index.qmd
+        text: Research
+      - href: people/index.qmd
+        text: People
+      - href: blog/index.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/YOUR_ORG_OR_USER
+        aria-label: GitHub
+      - icon: rss
+        href: blog/index.xml
+        aria-label: RSS
+  search: true
+  page-footer:
+    left: "© {year} Earth Observing Lab"
+    right:
+      - text: "Accessibility"
+        href: accessibility.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

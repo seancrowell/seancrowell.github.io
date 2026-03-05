@@ -1,0 +1,5 @@
+---
+title: "Accessibility"
+---
+
+We aim to make this website accessible to all users. If you encounter any issues, please contact us.
