@@ -3,9 +3,9 @@ project:
   output-dir: _site
 
 website:
-  title: "Earth Observing Lab"
-  site-url: "https://www.yourdomain.com"
-  description: "Research, people, and updates from the Earth Observing Lab."
+  title: "Environmental Remote Sensing Lab (ERSLab)"
+  site-url: "https://seancrowell.github.io"
+  description: "Research, people, and updates from the Earth Remote Sensing Lab."
   navbar:
     left:
       - href: index.qmd
