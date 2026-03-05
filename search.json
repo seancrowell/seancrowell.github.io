@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Accessibility",
+    "section": "",
+    "text": "We aim to make this website accessible to all users. If you encounter any issues, please contact us."
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student • Methane, inverse methods\n\n\nCH₄ Inversions Python"
+  },
+  {
+    "objectID": "people/index.html#current-members",
+    "href": "people/index.html#current-members",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student • Methane, inverse methods\n\n\nCH₄ Inversions Python"
+  },
+  {
+    "objectID": "people/index.html#alumni",
+    "href": "people/index.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\nAdd alumni here"
+  },
+  {
+    "objectID": "blog/posts/2026-03-05-welcome/index.html",
+    "href": "blog/posts/2026-03-05-welcome/index.html",
+    "title": "Welcome to the lab blog",
+    "section": "",
+    "text": "This is the first post. Use posts for: - paper highlights - new datasets or software releases - conference notes - field campaign updates"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join",
+    "section": "",
+    "text": "We’re often looking for motivated students and collaborators."
+  },
+  {
+    "objectID": "join.html#prospective-students",
+    "href": "join.html#prospective-students",
+    "title": "Join",
+    "section": "Prospective students",
+    "text": "Prospective students\n\nInclude what you’re looking for\nHow to reach out (what to include in the email)"
+  },
+  {
+    "objectID": "join.html#postdocs-staff",
+    "href": "join.html#postdocs-staff",
+    "title": "Join",
+    "section": "Postdocs / staff",
+    "text": "Postdocs / staff\n\nFunding situation\nPossible projects"
+  },
+  {
+    "objectID": "join.html#collaborators",
+    "href": "join.html#collaborators",
+    "title": "Join",
+    "section": "Collaborators",
+    "text": "Collaborators\n\nWhat partnerships you’re excited about"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "We organize our work into projects. Each project page includes a short summary, key outputs, and links to code/data when available."
+  },
+  {
+    "objectID": "research/index.html#projects",
+    "href": "research/index.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nMethane Plumes — detecting and attributing point sources from space"
+  },
+  {
+    "objectID": "research/projects/project-example/index.html",
+    "href": "research/projects/project-example/index.html",
+    "title": "Methane Plumes",
+    "section": "",
+    "text": "We develop methods to detect methane enhancements and connect them to likely sources using imagery and atmospheric transport context."
+  },
+  {
+    "objectID": "research/projects/project-example/index.html#summary",
+    "href": "research/projects/project-example/index.html#summary",
+    "title": "Methane Plumes",
+    "section": "",
+    "text": "We develop methods to detect methane enhancements and connect them to likely sources using imagery and atmospheric transport context."
+  },
+  {
+    "objectID": "research/projects/project-example/index.html#highlights",
+    "href": "research/projects/project-example/index.html#highlights",
+    "title": "Methane Plumes",
+    "section": "Highlights",
+    "text": "Highlights\n\nDetection + quality control pipeline\nCross-sensor validation strategy\nCase studies and benchmarking"
+  },
+  {
+    "objectID": "research/projects/project-example/index.html#outputs",
+    "href": "research/projects/project-example/index.html#outputs",
+    "title": "Methane Plumes",
+    "section": "Outputs",
+    "text": "Outputs\n\nPaper: Coming soon\nCode: Coming soon\nData: Coming soon"
+  },
+  {
+    "objectID": "research/projects/project-example/index.html#people",
+    "href": "research/projects/project-example/index.html#people",
+    "title": "Methane Plumes",
+    "section": "People",
+    "text": "People\n\nJane Doe"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: yourname@youruniversity.edu\n\nGitHub: https://github.com/YOUR_ORG_OR_USER\nAddress: optional"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Earth Observing Lab",
+    "section": "",
+    "text": "Welcome! We build and apply Earth observation methods to understand and reduce greenhouse gas emissions and improve climate decision-making."
+  },
+  {
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "Earth Observing Lab",
+    "section": "What we do",
+    "text": "What we do\n\nSatellite and airborne retrievals (CO₂ / CH₄ and related tracers)\nInversion and attribution methods\nOpen-source tools and reproducible workflows\nPartnerships with science and mitigation communities"
+  },
+  {
+    "objectID": "index.html#get-involved",
+    "href": "index.html#get-involved",
+    "title": "Earth Observing Lab",
+    "section": "Get involved",
+    "text": "Get involved\nInterested in joining? See Join or email us via Contact."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog / News",
+    "section": "",
+    "text": "Short updates on new papers, releases, talks, and field activities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the lab blog\n\n\n\nlab\n\nupdates\n\n\n\n\n\n\n\n\n\nMar 5, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/members/jane-doe/index.html",
+    "href": "people/members/jane-doe/index.html",
+    "title": "Jane Doe",
+    "section": "",
+    "text": "Jane works on methane point source detection and attribution from satellite observations."
+  },
+  {
+    "objectID": "people/members/jane-doe/index.html#about",
+    "href": "people/members/jane-doe/index.html#about",
+    "title": "Jane Doe",
+    "section": "",
+    "text": "Jane works on methane point source detection and attribution from satellite observations."
+  },
+  {
+    "objectID": "people/members/jane-doe/index.html#interests",
+    "href": "people/members/jane-doe/index.html#interests",
+    "title": "Jane Doe",
+    "section": "Interests",
+    "text": "Interests\n\nMethane retrievals\nInverse modeling\nUncertainty quantification"
+  },
+  {
+    "objectID": "people/members/jane-doe/index.html#links",
+    "href": "people/members/jane-doe/index.html#links",
+    "title": "Jane Doe",
+    "section": "Links",
+    "text": "Links\n\nGoogle Scholar: add\nORCID: add\nGitHub: add"
+  },
+  {
+    "objectID": "people/members/jane-doe/index.html#projects",
+    "href": "people/members/jane-doe/index.html#projects",
+    "title": "Jane Doe",
+    "section": "Projects",
+    "text": "Projects\n\nMethane Plumes"
+  }
+]

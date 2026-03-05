@@ -1,8 +1,0 @@
----
-title: "Contact"
----
-
-Email: **yourname@youruniversity.edu**
-
-- GitHub: https://github.com/YOUR_ORG_OR_USER
-- Address: *optional*

@@ -1,9 +1,0 @@
----
-title: "Research"
----
-
-We organize our work into projects. Each project page includes a short summary, key outputs, and links to code/data when available.
-
-## Projects
-
-- **[Methane Plumes](projects/project-example/)** — detecting and attributing point sources from space
