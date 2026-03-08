@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Crowell Lab – Remote Sensing &amp; Climate Research</title>
+<link>https://seancrowell.github.io/blog/</link>
+<atom:link href="https://seancrowell.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Advancing atmospheric remote sensing and carbon-cycle science through satellite data, inverse modelling and open tools.</description>
+<generator>quarto-1.9.29</generator>
+<lastBuildDate>Thu, 05 Mar 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to the lab blog</title>
+  <link>https://seancrowell.github.io/blog/posts/2026-03-05-welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is the first post. Use posts for: - paper highlights - new datasets or software releases - conference notes - field campaign updates</p>
+
+
+
+ ]]></description>
+  <category>lab</category>
+  <category>updates</category>
+  <guid>https://seancrowell.github.io/blog/posts/2026-03-05-welcome/</guid>
+  <pubDate>Thu, 05 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

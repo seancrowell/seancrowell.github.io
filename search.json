@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Accessibility",
+    "section": "",
+    "text": "We strive to make this website accessible to all users. If you encounter any issues accessing content, please contact us so we can address them.\nThis page is a placeholder; update it with specific accessibility policies and resources."
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "Our Team",
+    "section": "",
+    "text": "We are a multidisciplinary group of scientists, students and engineers working at the intersection of remote sensing, climate science and data science. Learn more about each member by visiting their profile."
+  },
+  {
+    "objectID": "people/index.html#current-members",
+    "href": "people/index.html#current-members",
+    "title": "Our Team",
+    "section": "Current members",
+    "text": "Current members\n\n\n\n\nDr. Sean M. R. Crowell\n\n\nPrincipal Investigator · Remote sensing, inverse modelling\n\n\nRemote sensing Methane Carbon inversion"
+  },
+  {
+    "objectID": "people/index.html#alumni",
+    "href": "people/index.html#alumni",
+    "title": "Our Team",
+    "section": "Alumni",
+    "text": "Alumni\nAdd information about former members here."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog / News",
+    "section": "",
+    "text": "Short updates on new papers, releases, talks, and field activities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the lab blog\n\n\n\nlab\n\nupdates\n\n\n\n\n\n\n\n\n\nMar 5, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Sean M. R. Crowell",
+    "section": "",
+    "text": "However, I continue to try and I continue, indefatigably, to reach out. Theres no way I can single-handedly save the world or, perhaps, even make a perceptible difference - but how ashamed I would be to let a day pass without making one more effort. - Isaac Asimov"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "We welcome inquiries from collaborators, prospective students, and members of the public interested in our work.\n\nEmail: sean.m.r.crowell@university.edu\n\nGitHub: seanmrcrowell\n\nLocation: Rochester, New York, United States\n\nIf you’d like to discuss potential collaborations or learn more about our research, please get in touch via email."
+  },
+  {
+    "objectID": "research/projects/carbon-inversion/index.html",
+    "href": "research/projects/carbon-inversion/index.html",
+    "title": "Carbon Inversion",
+    "section": "",
+    "text": "We use inverse modelling to estimate regional carbon dioxide and methane fluxes by assimilating satellite observations into atmospheric transport models. These flux estimates help evaluate ecosystem processes and support national inventories."
+  },
+  {
+    "objectID": "research/projects/carbon-inversion/index.html#overview",
+    "href": "research/projects/carbon-inversion/index.html#overview",
+    "title": "Carbon Inversion",
+    "section": "",
+    "text": "We use inverse modelling to estimate regional carbon dioxide and methane fluxes by assimilating satellite observations into atmospheric transport models. These flux estimates help evaluate ecosystem processes and support national inventories."
+  },
+  {
+    "objectID": "research/projects/carbon-inversion/index.html#outcomes",
+    "href": "research/projects/carbon-inversion/index.html#outcomes",
+    "title": "Carbon Inversion",
+    "section": "Outcomes",
+    "text": "Outcomes\n\nA regional inverse model for North America that integrates multiple satellite platforms.\nImproved priors for biosphere uptake and fossil‑fuel emissions.\nPublications in preparation and shared code repositories."
+  },
+  {
+    "objectID": "research/projects/carbon-inversion/index.html#team",
+    "href": "research/projects/carbon-inversion/index.html#team",
+    "title": "Carbon Inversion",
+    "section": "Team",
+    "text": "Team\n\nDr. Sean M. R. Crowell – principal investigator."
+  },
+  {
+    "objectID": "research/projects/methane-plumes/index.html",
+    "href": "research/projects/methane-plumes/index.html",
+    "title": "Methane Plumes",
+    "section": "",
+    "text": "This project develops methods to detect and quantify methane point sources using high‑resolution satellite imagery. We combine plume detection algorithms, atmospheric transport models and machine learning to identify emission hotspots from facilities such as landfills, pipelines and oil‑and‑gas infrastructure."
+  },
+  {
+    "objectID": "research/projects/methane-plumes/index.html#overview",
+    "href": "research/projects/methane-plumes/index.html#overview",
+    "title": "Methane Plumes",
+    "section": "",
+    "text": "This project develops methods to detect and quantify methane point sources using high‑resolution satellite imagery. We combine plume detection algorithms, atmospheric transport models and machine learning to identify emission hotspots from facilities such as landfills, pipelines and oil‑and‑gas infrastructure."
+  },
+  {
+    "objectID": "research/projects/methane-plumes/index.html#outcomes",
+    "href": "research/projects/methane-plumes/index.html#outcomes",
+    "title": "Methane Plumes",
+    "section": "Outcomes",
+    "text": "Outcomes\n\nA detection pipeline for short‑lived methane enhancements.\nCross‑sensor validation with airborne and ground‑based measurements.\nOpen‑source code and curated benchmark datasets (coming soon)."
+  },
+  {
+    "objectID": "research/projects/methane-plumes/index.html#team",
+    "href": "research/projects/methane-plumes/index.html#team",
+    "title": "Methane Plumes",
+    "section": "Team",
+    "text": "Team\n\nDr. Sean M. R. Crowell – principal investigator."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Our research combines satellite remote sensing, atmospheric modelling and data assimilation to study greenhouse gases and climate feedbacks. We develop open methods that allow scientists and policymakers to monitor emissions and evaluate mitigation strategies."
+  },
+  {
+    "objectID": "research/index.html#focus-areas",
+    "href": "research/index.html#focus-areas",
+    "title": "Research",
+    "section": "Focus areas",
+    "text": "Focus areas\n\nMethane plume detection – algorithms for identifying and characterising point sources of methane using high‑resolution satellite imagery.\nCarbon inversion – inverse modelling to quantify carbon dioxide and methane fluxes across regions and seasons.\nRemote‑sensing retrievals – improving trace‑gas retrievals from satellites and aircraft and validating them with independent measurements.\nOpen tools – building reproducible workflows and releasing software that supports climate research."
+  },
+  {
+    "objectID": "research/index.html#projects",
+    "href": "research/index.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nMethane Plumes – detecting methane point sources from satellites.\nCarbon Inversion – constraining carbon fluxes using inverse models.\n\nWe welcome collaborations with other researchers; please contact us if you’re interested in working together."
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join",
+    "section": "",
+    "text": "We’re often looking for motivated students and collaborators."
+  },
+  {
+    "objectID": "join.html#prospective-students",
+    "href": "join.html#prospective-students",
+    "title": "Join",
+    "section": "Prospective students",
+    "text": "Prospective students\n\nInclude what you’re looking for\nHow to reach out (what to include in the email)"
+  },
+  {
+    "objectID": "join.html#postdocs-staff",
+    "href": "join.html#postdocs-staff",
+    "title": "Join",
+    "section": "Postdocs / staff",
+    "text": "Postdocs / staff\n\nFunding situation\nPossible projects"
+  },
+  {
+    "objectID": "join.html#collaborators",
+    "href": "join.html#collaborators",
+    "title": "Join",
+    "section": "Collaborators",
+    "text": "Collaborators\n\nWhat partnerships you’re excited about"
+  },
+  {
+    "objectID": "blog/posts/2026-03-05-welcome/index.html",
+    "href": "blog/posts/2026-03-05-welcome/index.html",
+    "title": "Welcome to the lab blog",
+    "section": "",
+    "text": "This is the first post. Use posts for: - paper highlights - new datasets or software releases - conference notes - field campaign updates"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Below is a selection of publications authored by members of the Crowell Lab. For a comprehensive list, please visit our Google Scholar profile."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\n\nPlaceholder for 2026 publication. Replace this section with actual citations (e.g., using the APA format)."
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nPlaceholder for 2025 publication. Replace this section with actual citations."
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nPlaceholder for 2024 publication. Replace this section with actual citations.\n\nYou can use Quarto’s citation support by maintaining a references.bib file and citing with [@crowell2024example] within your pages."
+  },
+  {
+    "objectID": "people/members/sean-crowell/index.html",
+    "href": "people/members/sean-crowell/index.html",
+    "title": "Dr. Sean M. R. Crowell",
+    "section": "",
+    "text": "Dr. Crowell leads the Crowell Lab. His research focuses on advancing satellite remote sensing and inverse modelling techniques to understand greenhouse gas emissions and climate feedbacks. He has contributed to missions including OCO‑2 and MethaneSAT and is passionate about open science."
+  },
+  {
+    "objectID": "people/members/sean-crowell/index.html#biography",
+    "href": "people/members/sean-crowell/index.html#biography",
+    "title": "Dr. Sean M. R. Crowell",
+    "section": "",
+    "text": "Dr. Crowell leads the Crowell Lab. His research focuses on advancing satellite remote sensing and inverse modelling techniques to understand greenhouse gas emissions and climate feedbacks. He has contributed to missions including OCO‑2 and MethaneSAT and is passionate about open science."
+  },
+  {
+    "objectID": "people/members/sean-crowell/index.html#interests",
+    "href": "people/members/sean-crowell/index.html#interests",
+    "title": "Dr. Sean M. R. Crowell",
+    "section": "Interests",
+    "text": "Interests\n\nAtmospheric remote sensing\nMethane emissions\nCarbon cycle inversion\nOpen‑source scientific computing"
+  },
+  {
+    "objectID": "people/members/sean-crowell/index.html#links",
+    "href": "people/members/sean-crowell/index.html#links",
+    "title": "Dr. Sean M. R. Crowell",
+    "section": "Links",
+    "text": "Links\n\nGoogle Scholar\n\nORCID\n\nGitHub"
+  }
+]
