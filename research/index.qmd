@@ -2,8 +2,18 @@
 title: "Research"
 ---
 
-We organize our work into projects. Each project page includes a short summary, key outputs, and links to code/data when available.
+Our research combines satellite remote sensing, atmospheric modelling and data assimilation to study greenhouse gases and climate feedbacks. We develop open methods that allow scientists and policymakers to monitor emissions and evaluate mitigation strategies.
+
+## Focus areas
+
+- **Methane plume detection** – algorithms for identifying and characterising point sources of methane using high‑resolution satellite imagery.
+- **Carbon inversion** – inverse modelling to quantify carbon dioxide and methane fluxes across regions and seasons.
+- **Remote‑sensing retrievals** – improving trace‑gas retrievals from satellites and aircraft and validating them with independent measurements.
+- **Open tools** – building reproducible workflows and releasing software that supports climate research.
 
 ## Projects
 
-- **[Methane Plumes](projects/project-example/)** — detecting and attributing point sources from space
+- **[Methane Plumes](projects/methane-plumes/index.qmd)** – detecting methane point sources from satellites.
+- **[Carbon Inversion](projects/carbon-inversion/index.qmd)** – constraining carbon fluxes using inverse models.
+
+We welcome collaborations with other researchers; please [contact us](../contact.qmd) if you're interested in working together.

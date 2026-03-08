@@ -1,38 +1,9 @@
 ---
-title: "Earth Observing Lab"
-subtitle: "Remote sensing + climate-focused science and tools"
-image: assets/img/lab-mark.png
+title: "Dr. Sean M. R. Crowell"
+title-block-banner: assets/img/hero.jpg
+body-class: home
+page-layout: full
 ---
+<em>However, I continue to try and I continue, indefatigably, to reach out.  Theres no way I can single-handedly save the world or, perhaps, even make a perceptible difference - but how ashamed I would be to let a day pass without making one more effort.</em> - Isaac Asimov
 
-Welcome! We build and apply Earth observation methods to understand and reduce greenhouse gas emissions and improve climate decision-making.
-
-<div class="card-grid">
-
-<div class="project-card">
-<img src="assets/img/projects/project-example.jpg" alt="Project image">
-<h3><a href="research/projects/project-example/">Featured Project: Methane Plumes</a></h3>
-<p class="muted">Detecting and attributing methane point sources using satellite data.</p>
-</div>
-
-<div class="project-card">
-<img src="assets/img/people/jane-doe.jpg" alt="Person image">
-<h3><a href="people/">Meet the Lab</a></h3>
-<p class="muted">Students, staff, collaborators, and alumni.</p>
-</div>
-
-<div class="project-card">
-<img src="assets/img/lab-mark.png" alt="Blog image">
-<h3><a href="blog/">Lab Blog / News</a></h3>
-<p class="muted">Short posts on new papers, releases, talks, and field work.</p>
-</div>
-
-</div>
-
-## What we do
-- Satellite and airborne retrievals (CO₂ / CH₄ and related tracers)
-- Inversion and attribution methods
-- Open-source tools and reproducible workflows
-- Partnerships with science and mitigation communities
-
-## Get involved
-Interested in joining? See **[Join](join.qmd)** or email us via **[Contact](contact.qmd)**.
+![](assets/img/head-shot.png){fig-alt="It's me!" width=25%}

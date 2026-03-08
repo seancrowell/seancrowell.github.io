@@ -1,0 +1,18 @@
+---
+title: "Carbon Inversion"
+subtitle: "Constraining carbon cycle fluxes with satellites"
+---
+
+## Overview
+
+We use inverse modelling to estimate regional carbon dioxide and methane fluxes by assimilating satellite observations into atmospheric transport models. These flux estimates help evaluate ecosystem processes and support national inventories.
+
+## Outcomes
+
+- A regional inverse model for North America that integrates multiple satellite platforms.
+- Improved priors for biosphere uptake and fossil‑fuel emissions.
+- Publications in preparation and shared code repositories.
+
+## Team
+
+- [Dr. Sean M. R. Crowell](../../../people/members/sean-crowell/index.qmd) – principal investigator.

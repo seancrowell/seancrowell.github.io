@@ -1,0 +1,19 @@
+---
+title: "Publications"
+---
+
+Below is a selection of publications authored by members of the Crowell Lab. For a comprehensive list, please visit our [Google Scholar](https://scholar.google.com) profile.
+
+## 2026
+
+- *Placeholder for 2026 publication.* Replace this section with actual citations (e.g., using the APA format).
+
+## 2025
+
+- *Placeholder for 2025 publication.* Replace this section with actual citations.
+
+## 2024
+
+- *Placeholder for 2024 publication.* Replace this section with actual citations.
+
+You can use Quarto's citation support by maintaining a `references.bib` file and citing with `[@crowell2024example]` within your pages.

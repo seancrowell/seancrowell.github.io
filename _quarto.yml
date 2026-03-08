@@ -3,31 +3,34 @@ project:
   output-dir: _site
 
 website:
-  title: "Environmental Remote Sensing Lab (ERSLab)"
+  # Give the site a clear, professional title that reflects the lab's work
+  title: "Crowell Lab – Remote Sensing & Climate Research"
   site-url: "https://seancrowell.github.io"
-  description: "Research, people, and updates from the Earth Remote Sensing Lab."
+  # A concise description shown in metadata and social previews
+  description: "Advancing atmospheric remote sensing and carbon-cycle science through satellite data, inverse modelling and open tools."
   navbar:
     left:
+      # Keep navigation intuitive: home, research, team, publications and contact
       - href: index.qmd
         text: Home
       - href: research/index.qmd
         text: Research
       - href: people/index.qmd
-        text: People
-      - href: blog/index.qmd
-        text: Blog
+        text: Team
+      - href: publications.qmd
+        text: Publications
       - href: contact.qmd
         text: Contact
     right:
+      # Replace GitHub placeholder with the user’s actual GitHub profile when known
       - icon: github
-        href: https://github.com/YOUR_ORG_OR_USER
+        href: https://github.com/seanmrcrowell
         aria-label: GitHub
-      - icon: rss
-        href: blog/index.xml
-        aria-label: RSS
+  # enable search box in the header
   search: true
+  # simple footer with copyright and accessibility link
   page-footer:
-    left: "© {year} Earth Observing Lab"
+    left: "© {year} Crowell Lab"
     right:
       - text: "Accessibility"
         href: accessibility.qmd

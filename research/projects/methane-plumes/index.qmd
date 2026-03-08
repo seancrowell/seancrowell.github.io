@@ -1,0 +1,18 @@
+---
+title: "Methane Plumes"
+subtitle: "Detecting methane point sources from satellites"
+---
+
+## Overview
+
+This project develops methods to detect and quantify methane point sources using high‑resolution satellite imagery. We combine plume detection algorithms, atmospheric transport models and machine learning to identify emission hotspots from facilities such as landfills, pipelines and oil‑and‑gas infrastructure.
+
+## Outcomes
+
+- A detection pipeline for short‑lived methane enhancements.
+- Cross‑sensor validation with airborne and ground‑based measurements.
+- Open‑source code and curated benchmark datasets (coming soon).
+
+## Team
+
+- [Dr. Sean M. R. Crowell](../../../people/members/sean-crowell/index.qmd) – principal investigator.

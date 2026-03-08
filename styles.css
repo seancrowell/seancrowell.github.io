@@ -37,3 +37,20 @@
   margin-bottom: 0.35rem;
   font-size: 0.85rem;
 }
+
+/* Make the title banner show the full image with no cropping */
+.home .quarto-title-block .quarto-title-banner {
+  aspect-ratio: 1140 / 307;         /* matches your image */
+  width: 100%;
+  min-height: 0;                    /* let aspect-ratio drive height */
+  height: auto !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+}
+
+/* Optional: tighten/loosen title padding over the banner */
+.home .quarto-title-block {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}

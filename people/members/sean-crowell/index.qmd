@@ -1,0 +1,22 @@
+---
+title: "Dr. Sean M. R. Crowell"
+subtitle: "Principal Investigator"
+image: ../../../assets/img/sean-crowell.jpg
+---
+
+## Biography
+
+Dr. Crowell leads the Crowell Lab. His research focuses on advancing satellite remote sensing and inverse modelling techniques to understand greenhouse gas emissions and climate feedbacks. He has contributed to missions including OCO‑2 and MethaneSAT and is passionate about open science.
+
+## Interests
+
+- Atmospheric remote sensing
+- Methane emissions
+- Carbon cycle inversion
+- Open‑source scientific computing
+
+## Links
+
+- [Google Scholar](https://scholar.google.com)  
+- [ORCID](https://orcid.org)  
+- [GitHub](https://github.com/seanmrcrowell)
