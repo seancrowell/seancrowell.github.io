@@ -1,19 +1,94 @@
 ---
 title: "Publications"
+toc: true
+toc-depth: 2
 ---
 
-Below is a selection of publications authored by members of the Crowell Lab. For a comprehensive list, please visit our [Google Scholar](https://scholar.google.com) profile.
+Journal articles and preprints. The full list, with citation counts, is on [Google Scholar](https://scholar.google.com/citations?user=yMWoAu8AAAAJ). Author lists are shortened where the source list was.
 
-## 2026
-
-- *Placeholder for 2026 publication.* Replace this section with actual citations (e.g., using the APA format).
 
 ## 2025
 
-- *Placeholder for 2025 publication.* Replace this section with actual citations.
+- Keely, W., Mauceri, S., Nelson, R., Laughner, J., O’Dell, C. W., Massie, S., Baker, D., Kiel, M., Lamminpää, O., Hobbs, J., et al. (2025). Uncertainty-aware machine learning bias correction and filtering for OCO-2: Part 2. *Earth and Space Science* 12(11), e2025EA004329.
+- Mauceri, S., Keely, W., Laughner, J., O’Dell, C. W., Massie, S., Nelson, R., Baker, D., Kiel, M., Lamminpää, O., Hobbs, J., et al. (2025). Uncertainty-aware machine learning bias correction and filtering for OCO-2: Part 1. *Earth and Space Science* 12(7), e2025EA004328.
+- Somkuti, P., McGarragh, G., O'Dell, C., Di Noia, A., Vogel, L., **Crowell, S.**, Ott, L. E., & Bösch, H. (2025). Surface reflectance biases in XCH4 retrievals from the 2.3 µm band are enhanced in the presence of aerosols. *Atmospheric Measurement Techniques* 18(18), 4647–4663.
+- Doughty, R., Wimberly, M. C., Wanyama, D., Peiro, H., Parazoo, N., **Crowell, S.**, & Cho, M. A. (2025). Seasonality and synchrony of photosynthesis in African forests inferred from spaceborne chlorophyll fluorescence and vegetation indices. *Biogeosciences* 22(8), 1985–2004.
+- Wang, Q., **Crowell, S.**, & Klein, P. (2025). Noah-MP parameter optimization at Southern Great Plains using Bayesian optimization. *Journal of Geophysical Research: Atmospheres* 130(13), e2024JD041793.
+- Jensen, M. P., Flynn, J. H., Gonzalez-Cruz, J. E., Judd, L. M., Kollias, P., Kuang, C., McFarquhar, G. M., Powers, H., Ramamurthy, P., Sullivan, J., et al. (2025). Studying aerosol, clouds, and air quality in the coastal urban environment of southeastern Texas. *Bulletin of the American Meteorological Society*, early online release.
 
 ## 2024
 
-- *Placeholder for 2024 publication.* Replace this section with actual citations.
+- Wimberly, M. C., Wanyama, D., Doughty, R., Peiro, H., & **Crowell, S.** (2024). Increasing fire activity in African tropical forests is associated with deforestation and climate change. *Geophysical Research Letters* 51(9), e2023GL106240.
+- McGarragh, G. R., O'Dell, C. W., **Crowell, S. M. R.**, Somkuti, P., Burgh, E. B., & Moore III, B. (2024). The GeoCarb greenhouse gas retrieval algorithm: simulations and sensitivity to sources of uncertainty. *Atmospheric Measurement Techniques* 17(3), 1091–1121.
 
-You can use Quarto's citation support by maintaining a `references.bib` file and citing with `[@crowell2024example]` within your pages.
+## 2023
+
+- Keely, W. R., Mauceri, S., **Crowell, S.**, & O'Dell, C. W. (2023). A nonlinear data-driven approach to bias correction of XCO₂ for NASA's OCO-2 ACOS version 10. *Atmospheric Measurement Techniques* 16(23), 5725–5748.
+- Wang, Q., **Crowell, S. M. R.**, & Pal, S. (2023). Atmospheric variations in summertime column integrated CO2 on synoptic scales over the US. *Journal of Geophysical Research: Atmospheres* 128(6), e2021JD036256.
+- Wang, J., Zeng, N., Wang, M., Jiang, F., Chevallier, F., **Crowell, S.**, He, W., Johnson, M. S., Liu, J., Liu, Z., et al. (2023). Anomalous Net Biome Exchange Over Amazonian Rainforests Induced by the 2015/16 El Niño: Soil Dryness-Shaped Spatial Pattern but Temperature-dominated Total Flux. *Geophysical Research Letters* 50(11), e2023GL103379.
+
+## 2022
+
+- Peiro, H., **Crowell, S.**, Schuh, A., Baker, D. F., O'Dell, C., Jacobson, A. R., Chevallier, F., Liu, J., Eldering, A., Crisp, D., et al. (2022). Four years of global carbon cycle observed from the Orbiting Carbon Observatory 2 (OCO-2) version 9 and in situ data and comparison to OCO-2 version 7. *Atmospheric Chemistry and Physics* 22(2), 1097–1130.
+- Schuh, A. E., Byrne, B., Jacobson, A. R., **Crowell, S. M. R.**, Deng, F., Baker, D. F., Johnson, M. S., Philip, S., & Weir, B. (2022). On the role of atmospheric model transport uncertainty in estimating the Chinese land carbon sink. *Nature* 603(7901), E13–E14.
+- Zhang, L., Davis, K. J., Schuh, A. E., Jacobson, A. R., Pal, S., Cui, Y. Y., Baker, D., **Crowell, S.**, Chevallier, F., Remaud, M., et al. (2022). Multi-season evaluation of CO2 weather in OCO-2 MIP models. *Journal of Geophysical Research: Atmospheres* 127(2), e2021JD035457.
+- Cui, Y. Y., Zhang, L., Jacobson, A. R., Johnson, M. S., Philip, S., Baker, D., Chevallier, F., Schuh, A. E., Liu, J., **Crowell, S.**, et al. (2022). Evaluating global atmospheric inversions of terrestrial net ecosystem exchange CO2 over North America on seasonal and sub-continental scales. *Geophysical Research Letters* 49(18), e2022GL100147.
+- Peiro, H., **Crowell, S.**, & Moore III, B. (2022). Optimizing 4 years of CO₂ biospheric fluxes from OCO-2 and in situ data in TM5: fire emissions from GFED and inferred from MOPITT CO data. *Atmospheric Chemistry and Physics* 22(24), 15817–15849.
+- Alberti, C., Hase, F., Frey, M., Dubravica, D., Blumenstock, T., Dehn, A., Castracane, P., Surawicz, G., Harig, R., Baier, B. C., et al. (2022). Improved calibration procedures for the EM27/SUN spectrometers of the COllaborative Carbon Column Observing Network (COCCON). *Atmospheric Measurement Techniques* 15(8), 2433–2463.
+- Qin, Y., Xiao, X., Wigneron, J. P., Ciais, P., Canadell, J. G., Brandt, M., Li, X., Fan, L., Wu, X., Tang, H., et al. (2022). Large loss and rapid recovery of vegetation cover and aboveground biomass over forest areas in Australia during 2019–2020. *Remote Sensing of Environment* 278, 113087.
+
+## 2021
+
+- Somkuti, P., O'Dell, C. W., **Crowell, S.**, Köhler, P., McGarragh, G. R., Cronk, H. Q., & Burgh, E. B. (2021). Solar-induced chlorophyll fluorescence from the Geostationary Carbon Cycle Observatory (GeoCarb): An extensive simulation study. *Remote Sensing of Environment* 263, 112565.
+- Qin, Y., Xiao, X., Wigneron, J. P., Ciais, P., Brandt, M., Fan, L., Li, X., **Crowell, S.**, Wu, X., Doughty, R., et al. (2021). Carbon loss from forest degradation exceeds that from deforestation in the Brazilian Amazon. *Nature Climate Change* 11(5), 442–448.
+- Hu, X.-M., Gourdji, S. M., Davis, K. J., Wang, Q., Zhang, Y., Xue, M., Feng, S., Moore, B., & **Crowell, S. M. R.** (2021). Implementation of improved parameterization of terrestrial flux in WRF-VPRM improves the simulation of nighttime CO2 peaks and a daytime CO2 band ahead of a cold front. *Journal of Geophysical Research: Atmospheres* 126(10), e2020JD034362.
+- Hu, X.-M., Hu, J., Gao, L., Cai, C., Jiang, Y., Xue, M., Zhao, T., & **Crowell, S. M. R.** (2021). Multisensor and multimodel monitoring and investigation of a wintertime air pollution event ahead of a cold front over eastern China. *Journal of Geophysical Research: Atmospheres* 126(10), e2020JD033538.
+- Qin, Y., Xiao, X., Wigneron, J. P., Ciais, P., Canadell, J. G., Brandt, M., Li, X., Fan, L., Wu, X., Tang, H., et al. (2021). Annual maps of forests in Australia from analyses of microwave and optical images with FAO forest definition. *Journal of Remote Sensing*.
+
+## 2020
+
+- Li, X., Hu, X.-M., Cai, C., Jia, Q., Zhang, Y., Liu, J., Xue, M., Xu, J., Wen, R., & **Crowell, S. M. R.** (2020). Terrestrial CO2 fluxes, concentrations, sources and budget in Northeast China: Observational and modeling studies. *Journal of Geophysical Research: Atmospheres* 125(6), e2019JD031686.
+- Hu, X.-M., **Crowell, S.**, Wang, Q., Zhang, Y., Davis, K. J., Xue, M., Xiao, X., Moore, B., Wu, X., Choi, Y., et al. (2020). Dynamical downscaling of CO2 in 2016 over the contiguous United States using WRF-VPRM, a weather-biosphere-online-coupled model. *Journal of Advances in Modeling Earth Systems* 12(4), e2019MS001875.
+
+## 2019
+
+- Nivitanont, J., **Crowell, S. M. R.**, & Moore III, B. (2019). A scanning strategy optimized for signal-to-noise ratio for the Geostationary Carbon Cycle Observatory (GeoCarb) instrument. *Atmospheric Measurement Techniques* 12(6), 3317–3334.
+- **Crowell, S.**, Baker, D., Schuh, A., Basu, S., Jacobson, A. R., Chevallier, F., Liu, J., Deng, F., Feng, L., McKain, K., et al. (2019). The 2015–2016 carbon cycle as seen from OCO-2 and the global in situ network. *Atmospheric Chemistry and Physics* 19(15), 9797–9831.
+- Schuh, A. E., Jacobson, A. R., Basu, S., Weir, B., Baker, D., Bowman, K., Chevallier, F., **Crowell, S.**, Davis, K. J., Deng, F., et al. (2019). Quantifying the impact of atmospheric transport uncertainty on CO2 surface flux estimates. *Global biogeochemical cycles* 33(4), 484–500.
+
+## 2018
+
+- Moore III, B., **Crowell, S. M. R.**, Rayner, P. J., Kumer, J., O'Dell, C. W., O'Brien, D., Utembe, S., Polonsky, I., Schimel, D., & Lemen, J. (2018). The potential of the Geostationary Carbon Cycle Observatory (GeoCarb) to provide multi-scale constraints on the carbon cycle in the Americas. *Frontiers in Environmental Science* 6, 109.
+- Shi, Z., **Crowell, S.**, Luo, Y., & Moore III, B. (2018). Model structures amplify uncertainty in predicted soil carbon responses to climate change. *Nature Communications* 9(1), 2171.
+- **Crowell, S. M. R.**, Randolph Kawa, S., Browell, E. V., Hammerling, D. M., Moore, B., Schaefer, K., & Doney, S. C. (2018). On the ability of space-based passive and active remote sensing observations of CO2 to detect flux perturbations to the carbon cycle. *Journal of Geophysical Research: Atmospheres* 123(2), 1460–1477.
+- O'dell, C. W., Eldering, A., Wennberg, P. O., Crisp, D., Gunson, M. R., Fisher, B., Frankenberg, C., Kiel, M., Lindqvist, H., Mandrake, L., et al. (2018). Improved retrievals of carbon dioxide from Orbiting Carbon Observatory-2 with the version 8 ACOS algorithm. *Atmospheric Measurement Techniques* 11(12), 6539–6576.
+
+## 2015
+
+- **Crowell, S.**, Rayner, P., Zaccheo, S., & Moore, B. (2015). Impacts of atmospheric state uncertainty on O 2 measurement requirements for the ASCENDS mission. *Atmospheric Measurement Techniques* 8(7), 2685–2697.
+
+## 2014
+
+- **Crowell, S.**, White, L., & Wicker, L. (2014). Estimation of near surface wind speeds in strongly rotating flows. *Applied Mathematics and Computation* 235, 201–211. [PDF](https://seancrowell.com/wp-content/uploads/2014/04/amc19097.pdf)
+- Rayner, P. J., Utembe, S. R., & **Crowell, S.** (2014). Constraining regional greenhouse gas emissions using geostationary concentration measurements: a theoretical study. *Atmospheric Measurement Techniques* 7(10), 3285–3293.
+
+## Preprints and discussion papers
+
+- Keely, W. R., Lamminpää, O., Mauceri, S., **Crowell, S. M. R.**, O'Dell, C. W., & McGarragh, G. R. (2025). Conditional Diffusion-Based Retrieval of Atmospheric CO2 from Earth Observing Spectroscopy. *arXiv preprint arXiv:2504.17074*.
+- Doughty, R., Wang, Y., Johnson, J., Parazoo, N., Magney, T., Pierrat, Z., Xiao, X., Guanter, L., Köhler, P., Frankenberg, C., et al. (2023). A novel data-driven global model of photosynthesis using solar-induced chlorophyll fluorescence. *Authorea preprint*.
+- Keely, W., **Crowell, S.**, Moore, B., Diochnos, D., & O'Dell, C. (2022). Geophysical Bias Correction of Trace Green House Gas Satellite Retrievals Using Explainable Machine Learning Methods. *Authorea preprint*.
+- Hu, X.-M., Xue, M., Gao, L., & **Crowell, S.** (2022). Impact of 2019 mid-west flood on CO2 and CH4 using yearly WRF-GHG simulations over the contiguous United States. *Authorea preprint*.
+- Peiro, H. E., Kurt, A., & **Crowell, S.** (2022). Combustion efficiency observed with CO and NO2 TROPOMI data: a first counties scale study during the 2020 fires of California. *Authorea preprint*.
+- Nivitanont, J., **Crowell, S.**, O'Dell, C., Burgh, E., McGarragh, G., O'Brien, D., & Moore, B. (2022). Characterizing the Effects of Inhomogeneous Scene Illumination on the Retrieval of Greenhouse Gases from a Geostationary Platform. *Authorea preprint*.
+- **Crowell, S.**, Haist, T., Tscherpel, M., Caron, J., Burgh, E., & Moore III, B. (2022). Performance and polarization response of slit homogenizers for the GeoCarb mission. *Atmospheric Measurement Techniques Discussions*, 1–23.
+- Byrne, B., Baker, D. F., Basu, S., Bertolacci, M., Bowman, K. W., Carroll, D., Chatterjee, A., Chevallier, F., Ciais, P., Cressie, N., et al. (2022). National CO₂ budgets (2015–2020) inferred from atmospheric CO₂ observations in support of the global stocktake. *Earth System Science Data Discussions*, 1–59.
+- Kulawik, S. S., **Crowell, S.**, Baker, D., Liu, J., McKain, K., Sweeney, C., Biraud, S. C., Wofsy, S., O'Dell, C. W., Wennberg, P. O., et al. (2019). Characterization of OCO-2 and ACOS-GOSAT biases and errors for CO₂ flux estimates. *Atmospheric Measurement Techniques Discussions*, 1–61.
+- Schimel, D., Sellers, P., Moore III, B., Chatterjee, A., Baker, D., Berry, J., Bowman, K., Crisp, P. C. D., **Crowell, S.**, Denning, S., et al. (2016). Observing the carbon-climate system. *arXiv preprint arXiv:1604.02106*.
+- **Crowell, S.**, Rayner, P., Zaccheo, S., & Moore, B. (2014). Impacts of spectroscopic errors on O2 measurement requirements for the ASCENDS mission. *Atmospheric Measurement Techniques Discussions* 7(7), 6855–6875.
+- **Crowell, S.** & Lakshmivarahan, S. (2010). Forecast Bias Correction: A Second Order Method. *arXiv preprint arXiv:1011.1508*.
+
+## Earlier work
+
+Postdoctoral work at the National Severe Storms Laboratory with David Stensrud and Dave Turner: observing system simulation experiments for a winter storm modeled on January 2008 and a spring convective outbreak modeled on May 24, 2011.
+
+Numerical methods for weather prediction, with Catherine Mavriplis, Louis Wicker and Dustin Williams: finite difference, discontinuous Galerkin and spectral difference schemes compared on advection, Burgers and acoustic-advection problems. Presented at ICCS 2009 and ICOSAHOM 2009.

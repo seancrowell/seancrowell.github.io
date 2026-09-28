@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+$web-font-path: "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&display=swap" !default;
+$body-bg: #0d1a20;
+$body-color: #e3ecef;
+$link-color: #62c4de;
+$primary: #62c4de;
+$border-color: #26414c;
+$navbar-bg: #0d1a20;
+$navbar-fg: #e3ecef;
+$navbar-hl: #62c4de;
+$footer-bg: #0d1a20;
+$footer-fg: #93a8b0;
+$font-family-sans-serif: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+$font-family-monospace: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+$headings-font-family: "Newsreader", Georgia, "Times New Roman", serif;
+$headings-font-weight: 500;
+
+/*-- scss:rules --*/
+@if $web-font-path {
+  @import url($web-font-path);
+}

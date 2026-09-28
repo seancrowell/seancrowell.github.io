@@ -2,10 +2,12 @@
 title: "Contact"
 ---
 
-We welcome inquiries from collaborators, prospective students, and members of the public interested in our work.
+Department of Earth and Environmental Sciences\
+University of Rochester\
+Rochester, New York, United States
 
-- **Email:** [sean.m.r.crowell@university.edu](mailto:sean.m.r.crowell@university.edu)  
-- **GitHub:** [seanmrcrowell](https://github.com/seanmrcrowell)  
-- **Location:** Rochester, New York, United States
+<!-- Add your University of Rochester email address here. -->
 
-If you'd like to discuss potential collaborations or learn more about our research, please get in touch via email.
+- [ERSeLab website](https://erselab.github.io)
+- [GitHub (erselab)](https://github.com/erselab)
+- [LinkedIn](https://linkedin.com/in/sean-crowell)

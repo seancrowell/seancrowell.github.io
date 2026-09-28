@@ -1,45 +1,50 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    # Pages kept in the repo but not published until they have real content
+    - "!join.qmd"
+    - "!people/"
+    - "!blog/"
+    - "!research/projects/"
 
 website:
-  # Give the site a clear, professional title that reflects the lab's work
-  title: "Crowell Lab – Remote Sensing & Climate Research"
+  title: "Sean M. R. Crowell"
   site-url: "https://seancrowell.github.io"
-  # A concise description shown in metadata and social previews
-  description: "Advancing atmospheric remote sensing and carbon-cycle science through satellite data, inverse modelling and open tools."
+  description: "Sean M. R. Crowell, Department of Earth and Environmental Sciences, University of Rochester: satellite remote sensing of greenhouse gases, radiative transfer, and flux estimation."
   navbar:
     left:
-      # Keep navigation intuitive: home, research, team, publications and contact
       - href: index.qmd
         text: Home
       - href: research/index.qmd
         text: Research
-      - href: people/index.qmd
-        text: Team
+      - href: teaching.qmd
+        text: Teaching
       - href: publications.qmd
         text: Publications
       - href: contact.qmd
         text: Contact
     right:
-      # Replace GitHub placeholder with the user’s actual GitHub profile when known
+      - href: https://erselab.github.io
+        text: ERSeLab
       - icon: github
-        href: https://github.com/seanmrcrowell
+        href: https://github.com/erselab
         aria-label: GitHub
-  # enable search box in the header
   search: true
-  # simple footer with copyright and accessibility link
   page-footer:
-    left: "© {year} Crowell Lab"
+    left: "© 2026 Sean M. R. Crowell · Department of Earth and Environmental Sciences, University of Rochester"
     right:
       - text: "Accessibility"
         href: accessibility.qmd
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [cosmo, brand-light.scss]
+      dark: [cosmo, brand-dark.scss]
     css: styles.css
-    toc: true
+    toc: false
     smooth-scroll: true
 
 execute:

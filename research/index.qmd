@@ -2,18 +2,30 @@
 title: "Research"
 ---
 
-Our research combines satellite remote sensing, atmospheric modelling and data assimilation to study greenhouse gases and climate feedbacks. We develop open methods that allow scientists and policymakers to monitor emissions and evaluate mitigation strategies.
+My research combines satellite remote sensing, radiative transfer and inverse methods to measure greenhouse gases and to understand how well those measurements can be trusted. Lab projects and results are on the [ERSeLab site](https://erselab.github.io).
 
-## Focus areas
+<div class="theme-list">
 
-- **Methane plume detection** – algorithms for identifying and characterising point sources of methane using high‑resolution satellite imagery.
-- **Carbon inversion** – inverse modelling to quantify carbon dioxide and methane fluxes across regions and seasons.
-- **Remote‑sensing retrievals** – improving trace‑gas retrievals from satellites and aircraft and validating them with independent measurements.
-- **Open tools** – building reproducible workflows and releasing software that supports climate research.
+### Greenhouse gas retrievals from satellites
 
-## Projects
+Estimating column-averaged carbon dioxide and methane from reflected sunlight measured by OCO-2, GeoCarb and TROPOMI, and understanding where those retrievals can be trusted.
 
-- **[Methane Plumes](projects/methane-plumes/index.qmd)** – detecting methane point sources from satellites.
-- **[Carbon Inversion](projects/carbon-inversion/index.qmd)** – constraining carbon fluxes using inverse models.
+### Validation against ground-based measurements
 
-We welcome collaborations with other researchers; please [contact us](../contact.qmd) if you're interested in working together.
+Comparing satellite products with TCCON, the ground-based network of Fourier transform spectrometers, to diagnose biases and quantify uncertainty.
+
+### Radiative transfer
+
+Forward modeling of how gases, aerosols and the surface shape the spectrum a satellite sees, including the spectroscopy that underlies it.
+
+### Carbon flux estimation and regional inversions
+
+Using observations to infer emissions and uptake at the surface. Fluxes must be estimated at every model time, so errors are correlated in time, which is what makes the problem more interesting than standard sequential data assimilation. Current work includes methane inversions over the New York City domain with Gaussian linear methods and error covariance diagnostics.
+
+</div>
+
+```{=html}
+<ul class="chips" aria-label="Data and methods">
+  <li>OCO-2</li><li>GeoCarb</li><li>TROPOMI</li><li>TCCON</li><li>Bayesian inversion</li><li>HPC workflows</li>
+</ul>
+```

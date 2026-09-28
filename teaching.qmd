@@ -1,0 +1,15 @@
+---
+title: "Teaching"
+---
+
+::: {.entry}
+::: {.meta}
+Fall 2026 · University of Rochester
+:::
+
+### EESC 222 / 422: Environmental Remote Sensing
+
+A course for juniors, seniors and graduate students, organized around phenomena instead of sensors. It moves from radiative foundations through ecology, atmosphere and ocean applications to a capstone project. Labs use Python and Google Earth Engine.
+:::
+
+Before Rochester I taught mathematics and supervised undergraduate and graduate research projects.

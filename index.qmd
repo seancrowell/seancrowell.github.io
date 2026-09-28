@@ -1,9 +1,31 @@
 ---
-title: "Dr. Sean M. R. Crowell"
-title-block-banner: assets/img/hero.jpg
+pagetitle: "Sean M. R. Crowell"
 body-class: home
 page-layout: full
+toc: false
 ---
-<em>However, I continue to try and I continue, indefatigably, to reach out.  Theres no way I can single-handedly save the world or, perhaps, even make a perceptible difference - but how ashamed I would be to let a day pass without making one more effort.</em> - Isaac Asimov
 
-![](assets/img/head-shot.png){fig-alt="It's me!" width=25%}
+::: {.role}
+Incoming Assistant Professor · Department of Earth and Environmental Sciences, University of Rochester
+:::
+
+```{=html}
+<h1 class="hero-title">Measuring greenhouse gases from space, and checking the measurements.</h1>
+```
+
+::: {.lede}
+I work on atmospheric remote sensing, greenhouse gas retrievals and radiative transfer, and on the mathematics that connects satellite radiances to surface fluxes. I lead the [Environmental Remote Sensing Lab (ERSeLab)](https://erselab.github.io) at the University of Rochester.
+:::
+
+
+## Explore
+
+- [Research](research/index.qmd): greenhouse gas retrievals, validation, radiative transfer, and flux inversions.
+- [Teaching](teaching.qmd): EESC 222 / 422, Environmental Remote Sensing.
+- [Publications](publications.qmd): journal articles and preprints on satellite retrievals, GeoCarb, and carbon cycle inversions.
+- [ERSeLab](https://erselab.github.io): the lab's projects, people and results.
+- [Contact](contact.qmd)
+
+## Background
+
+I studied mathematics at the University of Science and Arts of Oklahoma, then at the University of Oklahoma, where I earned my PhD. Along the way I found atmospheric science and the way the Earth system fits together, and I have worked on it since.

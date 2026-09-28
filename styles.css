@@ -1,0 +1,27 @@
+/* Shared rules. Colors come from Bootstrap variables so light and dark themes both work. */
+.navbar-brand { font-family: "Newsreader", Georgia, serif; font-weight: 600; }
+.nav-link { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: .8rem; letter-spacing: .04em; text-transform: uppercase; }
+#quarto-content, .page-columns { max-width: 980px; margin-inline: auto; }
+main.content { max-width: 46rem; }
+body.home main.content { max-width: 980px; }
+
+.role { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: .8rem; letter-spacing: .06em; text-transform: uppercase; color: var(--bs-primary); margin: 2rem 0 1rem; }
+.hero-title { font-size: clamp(2.2rem, 6vw, 3.6rem); line-height: 1.08; letter-spacing: -.01em; text-wrap: balance; border: 0; margin-top: 0; margin-bottom: 1.25rem; }
+.lede { font-size: 1.15rem; line-height: 1.55; max-width: 40rem; margin-bottom: 1rem; }
+.affil { color: var(--bs-secondary-color, #55676f); max-width: 40rem; }
+
+
+.theme-list h3 { font-size: 1.3rem; margin: 1.75rem 0 .35rem; font-weight: 600; }
+.theme-list p { margin: 0; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; margin: 1.5rem 0 0; }
+.chips li { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: .8rem; padding: 3px 10px; border: 1px solid var(--bs-border-color); }
+
+.meta { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: .78rem; color: var(--bs-secondary-color, #55676f); margin: 0 0 .5rem; }
+.entry { padding-block: 1.5rem; border-top: 1px solid var(--bs-border-color); }
+.entry:first-of-type { border-top: 0; }
+.entry h3 { margin-top: 0; font-size: 1.3rem; font-weight: 600; }
+
+.pubs { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 1.25rem; }
+.pubs li { padding-left: 1rem; border-left: 2px solid var(--bs-border-color); }
+.pubs .t { font-weight: 600; }
+.pubs .v { display: block; color: var(--bs-secondary-color, #55676f); font-size: .92rem; }
